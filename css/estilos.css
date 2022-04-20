@@ -1,0 +1,15 @@
+
+font-face {
+    font-family: Titulo;
+    src: url(../fontes/ANODETONOONE.TTF);
+}
+
+h1 {
+    font-family: Titulo;
+    font-size: 40px;
+    color: #603a03;
+}
+
+body {
+    background-image: url(../imgs/fundo.jpg);
+}
